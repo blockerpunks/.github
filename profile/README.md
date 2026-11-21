@@ -10,11 +10,15 @@ We like powerful tools. We use them every day, and some of us help build them, i
 
 ## Projects
 
-**[[-] Adblocked AI](https://github.com/blockerpunks/adblocked.ai-plugin)**: a browser extension that hides ads in AI chat interfaces, starting with ChatGPT. It runs locally, collects nothing, and is MIT licensed. [Install for Firefox](https://addons.mozilla.org/firefox/addon/adblocked-ai/) · [adblocked.ai](https://adblocked.ai)
+**[[-] Adblocked AI](https://github.com/blockerpunks/adblocked.ai-plugin)**: a browser extension that hides ads in AI chat interfaces, starting with ChatGPT. It runs locally, collects nothing, and is MIT licensed. [Install for Chrome](https://chromewebstore.google.com/detail/ikolncpmbfbkfmbmkfmcmkddnmnaplhc) · [Install for Firefox](https://addons.mozilla.org/firefox/addon/adblocked-ai/) · [adblocked.ai](https://adblocked.ai)
 
 ## Get involved
 
 Seen an ad in an AI assistant that we don't block yet? [Tell us](https://github.com/blockerpunks/adblocked.ai-plugin/blob/main/CONTRIBUTING.md). That report is the most useful contribution there is, and it needs no code.
 
 Contact: blockerpunks@gmail.com
+
+## Security
+
+Found a security problem? Please don't open a public issue. Our [security policy](https://github.com/blockerpunks/.github/blob/main/SECURITY.md) explains how to report it privately.
 
