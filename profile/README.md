@@ -18,3 +18,7 @@ Seen an ad in an AI assistant that we don't block yet? [Tell us](https://github.
 
 Contact: blockerpunks@gmail.com
 
+## Security
+
+Found a security problem? Please don't open a public issue. Our [security policy](https://github.com/blockerpunks/.github/blob/main/SECURITY.md) explains how to report it privately.
+
